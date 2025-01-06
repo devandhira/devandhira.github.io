@@ -16,10 +16,10 @@ main:
     url: /year-archive/
     
   - title: "Work Experience"
-    url: /cv/
+    url: /workexp/
 
-  # - title: "Education"
-  #   url: /education/
+  - title: "Education"
+    url: /education/
     
   # - title: "Guide"
   #   url: /markdown/
