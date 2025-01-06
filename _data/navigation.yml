@@ -15,8 +15,11 @@ main:
   - title: "Blog Posts"
     url: /year-archive/
     
-  - title: "CV"
-    url: /cv/
+  - title: "Work Experience"
+    url: /workexp/
+
+  - title: "Education"
+    url: /education/
     
   # - title: "Guide"
   #   url: /markdown/
