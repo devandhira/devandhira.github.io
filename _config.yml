@@ -21,7 +21,7 @@ repository               : "devandhira/devandhira.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "PAE06921square.png"
   name             : "Devandhira Wijaya Wangsa"
   pronouns         : # example: "she/her"  
   bio              : "Mathematics Undergraduate"
@@ -31,12 +31,12 @@ author:
   email            : "devandhira@live.com" 
 
   # Academic websites
-  arxiv            : # URL - Update with the correct link to your profile
+  arxiv            : "https://arxiv.org/search/math?searchtype=author&query=Wangsa,+D+W"
   googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : # URL
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # URL
   researchgate     : # URL
 
   # Repositories and software development
@@ -55,7 +55,7 @@ author:
   goodreads        : # Username
   google_plus      : # Username
   keybase          : # Username
-  instagram        : # Username
+  instagram        : "devan.dhira"
   lastfm           : # Username
   linkedin         : "devandhira"
   mastodon         : # URL
