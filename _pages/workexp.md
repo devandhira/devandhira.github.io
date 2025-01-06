@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "CV"
-permalink: /cv/
+title: "Work Experience"
+permalink: /workexp/
 author_profile: true
 redirect_from:
   - /resume
