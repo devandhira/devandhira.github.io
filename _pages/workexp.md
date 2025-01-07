@@ -9,8 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-Work experience
-======
 * Spring 2024: Academic Pages Collaborator
   * Github University
   * Duties includes: Updates and improvements to template
