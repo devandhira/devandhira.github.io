@@ -18,10 +18,11 @@ redirect_from:
 * [Universitas Pelita Harapan](https://www.uph.edu/en/homepage/), Aug 2021 - Apr 2022
   * Only enrolled for 2 semesters for gap year 
 * CAIE A-Level, [Lilin Bangsa Intercultural School](https://www.lilinbangsa.sch.id/), 2021
-  * Mathematics (9709)
-  * Further Mathematics (9231)
-  * Chemistry (9701)
-  * Physics (9702)
+  * Subjects Taken:
+    * Mathematics (9709)
+    * Further Mathematics (9231)
+    * Chemistry (9701)
+    * Physics (9702)
 
 ### Courses Taken in HKUST
 
