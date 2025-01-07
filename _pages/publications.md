@@ -16,6 +16,6 @@ author_profile: true
 {% endfor %}
 
 
-Publications
-===
+Preprints
+=====
 * adasdasdasdasd
