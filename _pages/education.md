@@ -24,8 +24,8 @@ redirect_from:
 
 ### Courses Taken in HKUST
 
-| asd asdas | a                 | a |
-|-----------|-------------------|---|
-| asd       | asd asddd asddddd | a |
-| asd       | a                 | a |
-| asd       | a                 | a |
+| asd<br>asdas | a                       | a |
+|--------------|-------------------------|---|
+| asd          | asd<br>asddd<br>asddddd | a |
+| asd          | a                       | a |
+| asd          | a                       | a |
