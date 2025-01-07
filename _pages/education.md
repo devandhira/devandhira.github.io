@@ -13,6 +13,7 @@ redirect_from:
 * BSc in Mathematics, [The Hong Kong University of Science and Technology](https://hkust.edu.hk/), Sep 2022 - May 2025 (expected)
   * Track: Pure Mathematics Advanced
   * Minor: Actuarial Mathematics
+  * S.S. Chern Class Scholarship Awardee (2023)
   * Internal Vice President of the Mathematics Students’ Club
 * [Universitas Pelita Harapan](https://www.uph.edu/en/homepage/), Aug 2021 - Apr 2022
   * Only enrolled for 2 semesters for gap year 
