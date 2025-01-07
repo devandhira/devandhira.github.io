@@ -17,14 +17,14 @@ redirect_from:
   * Only enrolled for 2 semesters for gap year 
 * CAIE A-Level, Lilin Bangsa Intercultural School, 2021
   * Mathematics (9709)
-  * Further Maths (9231)
+  * Further Mathematics (9231)
   * Chemistry (9701)
   * Physics (9702)
 
 ### Table 2
 
 | Header1 | Header2 | Header3 |
-|:--------|:-------:|--------:|
+|:-------:|:-------:|:-------:|
 | cell1   | cell2   | cell3   |
 | cell4   | cell5   | cell6   |
 |-----------------------------|
