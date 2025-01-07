@@ -18,4 +18,5 @@ author_profile: true
 
 Preprints
 =====
-* adasdasdasdasd
+* A Proof of Ramanujan's Classic π Formula ([arXiv Link](https://arxiv.org/abs/2411.15803))
+  * Thang Pang Ern, Devandhira Wijaya Wangsa
