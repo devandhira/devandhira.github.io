@@ -10,13 +10,13 @@ redirect_from:
 {% include base_path %}
 
 
-* BSc in Mathematics, The Hong Kong University of Science and Technology, Sep 2022 - May 2025 (expected)
+* BSc in Mathematics, [The Hong Kong University of Science and Technology](https://hkust.edu.hk/), Sep 2022 - May 2025 (expected)
   * Track: Pure Mathematics Advanced
   * Minor: Actuarial Mathematics
   * Internal Vice President of the Mathematics Students’ Club
-* Universitas Pelita Harapan, Aug 2021 - Apr 2022
+* [Universitas Pelita Harapan](https://www.uph.edu/en/homepage/), Aug 2021 - Apr 2022
   * Only enrolled for 2 semesters for gap year 
-* CAIE A-Level, Lilin Bangsa Intercultural School, 2021
+* CAIE A-Level, [Lilin Bangsa Intercultural School](https://www.lilinbangsa.sch.id/), 2021
   * Mathematics (9709)
   * Further Mathematics (9231)
   * Chemistry (9701)
