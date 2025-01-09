@@ -49,11 +49,11 @@ Volunteer Work
 ======
 ### Infinitics 6 UPH
 * Member of Contest Division
-  * As one of the committee for Infinitics 6, a national online mathematics competition held by UPH for high school students in Indonesia, I was part of the competition division creating questions for both the “Olympiad” and “Intelligence Race” competition.
+  * As one of the committee for Infinitics 6, a national online mathematics competition held by UPH for high school students in Indonesia, I was part of the competition division creating questions for both the _Olympiad_ and _Intelligence Race_ competition.
 
 ### Infinitics 5 UPH
 * Supporting Crew
-  * Assisted in the "Intelligence Race" competition in Infinitics 5 held online in October 2021 where I was tasked to check attendance, supervise rooms, timekeeping, and make sure the data of participants were inputted correctly, etc.
+  * Assisted in the _Intelligence Race_ competition in Infinitics 5 held online in October 2021 where I was tasked to check attendance, supervise rooms, timekeeping, and make sure the data of participants were inputted correctly, etc.
 
 ### Vihara Jakarta Dhammacakka jaya
 * Mathematics Mentor
