@@ -40,5 +40,5 @@ redirect_from:
 
 | Semester         | Courses                                                                                                                                                               |
 |------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Odd Sem 2021-22  | Calculus 1<br>Elementary Statistics<br>Elementary Linear Algebra<br>Mathematical Logic<br>Algorithms & Programming<br>Leadership & Entrepreneurship<br>Soft Skills    |
-| Even Sem 2021-22 | Calculus 2<br>Financial Mathematics<br>Linear Programming<br>Abstract Algebra<br>Introduction to Mathematics<br>Introduction to Microeconomics<br>Indonesian Language |
+| Odd Semester 2021-22  | Calculus 1<br>Elementary Statistics<br>Elementary Linear Algebra<br>Mathematical Logic<br>Algorithms & Programming<br>Leadership & Entrepreneurship<br>Soft Skills    |
+| Even Semester 2021-22 | Calculus 2<br>Financial Mathematics<br>Linear Programming<br>Abstract Algebra<br>Introduction to Mathematics<br>Introduction to Microeconomics<br>Indonesian Language |
