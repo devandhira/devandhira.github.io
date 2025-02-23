@@ -47,12 +47,21 @@ redirect_from:
 
 Volunteer Work
 ======
+### Math Clinic UPH
+* Volunteer Teacher
+  * _Math Clinic_ is an event hosted by the Mathematics Students' Association UPH (HMM-UPH) where tutors are invited to teach students for exam preparation.
+  * List of courses taught:
+    * Mathematical Logic (2022)
+    * Multivariable Calculus (2022-2023)
+    * Complex Analysis (2023-2024)
+    * Real Analysis (2024-2025)
+
 ### Infinitics 6 UPH
-* Member of Contest Division
+* Member of Contest Division (2022)
   * As one of the committee for Infinitics 6, a national online mathematics competition held by UPH for high school students in Indonesia, I was part of the competition division creating questions for both the _Olympiad_ and _Intelligence Race_ competition.
 
 ### Infinitics 5 UPH
-* Supporting Crew
+* Supporting Crew (2021)
   * Assisted in the _Intelligence Race_ competition in Infinitics 5 held online in October 2021 where I was tasked to check attendance, supervise rooms, timekeeping, and make sure the data of participants were inputted correctly, etc.
 
 ### Vihara Jakarta Dhammacakka jaya
