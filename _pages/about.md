@@ -9,7 +9,7 @@ redirect_from:
 
 
 
-I'm Devan
+I'm Devandhira Wijaya Wangsa (but you can call me Devan).
 
 I'm currently an undergraduate student in HKUST studying Mathematics.
 
