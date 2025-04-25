@@ -19,7 +19,7 @@ My main interests are topics related to Complex Analysis; I'm currently interest
 
 Games I enjoy playing
 ======
-I have loved playing games ever since my childhood and I still play games a lot up to this day, because of this, I think the games one enjoy playing can describe the personality of a person. In other words, your taste in games (and how you enjoy to play them) tells me what kind of person you are. So here are games that I sort by category in terms of how I enjoy them.
+I have loved playing games ever since my childhood and I still play games a lot up to this day, because of this, I think the games one enjoy playing can describe the personality of a person. In other words, your taste in games (and how you enjoy them) tells me what kind of person you are. So here are games that I sort by category in terms of how I enjoy them.
 
 
 Getting started
