@@ -21,6 +21,11 @@ Games I enjoy playing
 ======
 I have loved playing games ever since my childhood and I still play games a lot up to this day, because of this, I think the games one enjoy playing can describe the personality of a person. In other words, your taste in games (and how you enjoy them) tells me what kind of person you are. So here are games that I sort by category in terms of how I enjoy them.
 
+|            Games that mean a lot to me           | Games I only like to play with friends | 1 |
+|:------------------------------------------------:|:--------------------------------------:|:-:|
+| Nier Automata<br>Nier Replicant<br>Devil May Cry |               R6S<br>CSGO              | 1 |
+
+
 
 Getting started
 ======
