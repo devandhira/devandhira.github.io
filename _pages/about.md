@@ -9,18 +9,18 @@ redirect_from:
 
 
 
-I'm Devandhira Wijaya Wangsa (but you can call me Devan).
+I'm Devandhira Wijaya Wangsa (you can call me Devan).
 
-I'm currently an undergraduate student in HKUST studying Mathematics.
+I'm currently an undergraduate student in HKUST studying Mathematics; I'm also supervised by Prof. Ip, Ivan Chi Ho for my undergraduate research projects in studying the analytic properties of the Quantum Dilogarithm which has applications on Quantum Groups.
 
-I'm also supervised by Prof. Ip, Ivan Chi Ho for my undergraduate research projects.
+My main interests are topics related to Complex Analysis; I'm currently interested in studying more about Several Complex Variables.
 
 
-A data-driven personal website
+
+Games I enjoy playing
 ======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+I have loved playing games ever since my childhood and I still play games a lot up to this day, because of this, I think the games one enjoy playing can describe the personality of a person. In other words, your taste in games (and how you enjoy to play them) tells me what kind of person you are. So here are games that I sort by category in terms of how I enjoy them.
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
 
 Getting started
 ======
