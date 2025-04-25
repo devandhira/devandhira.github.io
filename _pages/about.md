@@ -11,7 +11,7 @@ redirect_from:
 
 I'm Devandhira Wijaya Wangsa (you can call me Devan).
 
-I'm currently an undergraduate student in HKUST studying Mathematics; I'm also supervised by Prof. Ip, Ivan Chi Ho for my undergraduate research projects in studying the analytic properties of the Quantum Dilogarithm which has applications on Quantum Groups.
+I'm currently an undergraduate student in HKUST studying Mathematics. My undergraduate research projects are supervised by Prof. Ip, Ivan Chi Ho where I study the analytic properties of the Quantum Dilogarithm which has applications on Quantum Groups.
 
 My main interests are topics related to Complex Analysis; I'm currently interested in studying more about Several Complex Variables.
 
