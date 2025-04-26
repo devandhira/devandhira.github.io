@@ -26,6 +26,18 @@ I have loved playing games ever since my childhood and I still play games a lot 
 | Brave Frontier<br>Nier Automata<br>Nier Replicant<br>Deemo<br>Devil May Cry 4 & 5<br>Graal Online Classic<br>Rocket League<br>Monster Hunter World<br>Monster Hunter Rise<br>Monster Hunter Wilds<br>Warframe | Ace Attorney 6<br>The Great Ace Attorney<br>Detroit: Become Human<br>Elden Ring<br>Ender Lilies<br>Ender Magnolia<br>Ghost Trick: Phantom Detective<br>Limbus Company<br>Divinity: Original Sin 2<br>Baldur's Gate 3<br>Code Vein<br>GRIS | Rainbow 6 Siege<br>Counter Strike 2<br>R.E.P.O<br>Risk of Rain 2<br>The Forest<br>Sons of the Forest |
 
 
+**Games I only enjoy playing with friends**
+
+These are
+
+
+**Single Player Games I enjoy**
+
+These are
+
+**Games that mean a lot to me**
+
+These are
 
 Getting started
 ======
