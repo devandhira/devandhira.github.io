@@ -18,4 +18,6 @@
 .writing-card:has(.card-art){padding-top:2rem}
 @media(max-width:800px){.card-art,.writing-card:first-child .card-art{height:180px}}
 
-.quantum-formula{font-family:serif;font-size:clamp(1.1rem,2.1vw,2.15rem);color:#343434;max-width:58vw}.quantum-formula mjx-container{margin:0!important}
+
+
+.quantum-formula{display:flex;align-items:center;gap:.16em;font-family:Georgia,"Times New Roman",serif;font-weight:400;font-size:clamp(.95rem,1.85vw,1.9rem);color:#3b3b3b;white-space:nowrap}.quantum-formula .phi sub{font-size:.58em}.quantum-formula .paren{font-size:2.25em;font-weight:300;line-height:.7}.quantum-formula .frac{display:inline-flex;flex-direction:column;align-items:center;vertical-align:middle;line-height:1.05;font-size:.78em}.quantum-formula .frac>span:first-child{border-bottom:1px solid currentColor;padding:0 .14em .08em}.quantum-formula .frac>span:last-child{padding:.08em .14em 0}.quantum-formula .wide{font-size:.72em}.quantum-formula .integral{font-size:2.4em;line-height:.7;margin-left:.08em}.quantum-formula .limits{display:inline-flex;flex-direction:column;font-size:.5em;line-height:1;margin-left:-.25em;margin-right:.05em}.quantum-formula .limits sup,.quantum-formula .limits sub{position:static}.quantum-formula .dx{font-size:.7em}@media(max-width:800px){.quantum-formula{display:none}}
