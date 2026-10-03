@@ -27,3 +27,24 @@
 .quantum-formula{right:6vw;bottom:3.25rem;width:min(43vw,690px);max-width:none;opacity:.8}
 .quantum-formula img{display:block;width:100%;height:auto}
 @media(max-width:800px){.quantum-formula{display:none}}
+
+/* Keep the research formula as a quiet motif below the prose. */
+#research{padding-bottom:11rem}
+#research .research-copy{position:relative;z-index:2}
+.quantum-formula{
+  right:5vw !important;
+  bottom:2.5rem !important;
+  width:min(31vw,470px) !important;
+  max-width:470px !important;
+  opacity:.62 !important;
+  z-index:1;
+}
+.quantum-formula img{width:100%;height:auto;display:block}
+@media(max-width:1100px){
+  #research{padding-bottom:9rem}
+  .quantum-formula{width:min(36vw,420px) !important}
+}
+@media(max-width:800px){
+  #research{padding-bottom:5rem}
+  .quantum-formula{display:none}
+}
