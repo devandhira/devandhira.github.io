@@ -72,3 +72,24 @@
 @media(max-width:1100px){
   .quantum-formula{width:min(23vw,270px) !important}
 }
+
+/* Equation PNG: deliberately small, isolated, and non-overlapping. */
+#research{padding-bottom:8rem}
+#research .quantum-formula{
+  position:absolute !important;
+  right:5vw !important;
+  bottom:2.25rem !important;
+  width:220px !important;
+  max-width:220px !important;
+  opacity:.62 !important;
+}
+#research .quantum-formula img{
+  display:block !important;
+  width:220px !important;
+  max-width:220px !important;
+  height:auto !important;
+}
+@media(max-width:1100px){
+  #research .quantum-formula,
+  #research .quantum-formula img{width:190px !important;max-width:190px !important}
+}
