@@ -22,6 +22,19 @@
 
 
 
-.quantum-formula{max-width:62vw;color:#8f9399}.quantum-equation{display:block;width:min(62vw,940px);height:auto;overflow:visible}@media(max-width:800px){.quantum-formula{display:none}}
+@media(max-width:800px){.quantum-formula{display:none}}
 
-.quantum-equation,.quantum-equation text{fill:#8f9399!important;color:#8f9399!important;font-family:"Cambria Math",Cambria,"STIX Two Math","Times New Roman",serif!important}.quantum-equation line{stroke:#8f9399!important}
+
+
+.quantum-formula{
+  right:6vw;
+  bottom:3.25rem;
+  max-width:46vw;
+  color:#8f9399;
+  font-size:clamp(.72rem,1.15vw,1.15rem);
+  opacity:.78;
+}
+.quantum-formula .katex-display{margin:0;text-align:right}
+.quantum-formula .katex{color:#8f9399;font-size:1.45em}
+@media(max-width:1000px){.quantum-formula{max-width:52vw;font-size:.72rem}}
+@media(max-width:800px){.quantum-formula{display:none}}
