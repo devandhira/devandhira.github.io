@@ -93,3 +93,24 @@
   #research .quantum-formula,
   #research .quantum-formula img{width:190px !important;max-width:190px !important}
 }
+
+/* Compact equation placement — intentionally overrides earlier experiments. */
+#research{padding-bottom:10rem !important}
+#research .quantum-formula{
+  position:absolute !important;
+  right:6vw !important;
+  bottom:1.1rem !important;
+  width:150px !important;
+  max-width:150px !important;
+  opacity:.66 !important;
+}
+#research .quantum-formula img{
+  display:block !important;
+  width:150px !important;
+  max-width:150px !important;
+  height:auto !important;
+}
+@media(max-width:1100px){
+  #research .quantum-formula,
+  #research .quantum-formula img{width:135px !important;max-width:135px !important}
+}
