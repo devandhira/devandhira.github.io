@@ -22,4 +22,4 @@
 
 
 
-.quantum-formula{max-width:62vw;color:#3a3a3a}.quantum-equation{display:block;width:min(62vw,940px);height:auto;overflow:visible}@media(max-width:800px){.quantum-formula{display:none}}
+.quantum-formula{max-width:62vw;color:#f0f0ed}.quantum-equation{display:block;width:min(62vw,940px);height:auto;overflow:visible}@media(max-width:800px){.quantum-formula{display:none}}
