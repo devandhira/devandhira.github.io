@@ -9,8 +9,6 @@
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@300;400;500;600;700&family=Manrope:wght@500;600;700;800&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="/redesign.css">
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/katex.min.css">
-  <script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/katex.min.js"></script>
 </head>
 <body>
 <header class="nav">
@@ -40,7 +38,9 @@
     <p>I am undertaking a PhD in Mathematics at the National University of Singapore under the supervision of <a href="https://blog.nus.edu.sg/dinh/" target="_blank" rel="noopener">Prof. Dinh Tien Cuong ↗</a>.</p>
     <p>My undergraduate research, supervised by <a href="https://www.math.hkust.edu.hk/~ivanip/index.html" target="_blank" rel="noopener">Prof. Ip, Ivan Chi Ho ↗</a> at HKUST, studied analytic properties of the <strong>quantum dilogarithm</strong> and its connections with quantum groups.</p>
   </div>
-  <div class="formula quantum-formula" id="quantum-formula" aria-label="Quantum dilogarithm formula"></div>
+  <div class="formula quantum-formula" aria-label="Quantum dilogarithm formula">
+  <img src="/images/quantum-dilogarithm-formula.svg?v=2" alt="Quantum dilogarithm integral formula">
+</div>
 </section>
 
 <section class="section writing" id="writing">
@@ -99,16 +99,5 @@
 
 <footer><div><span class="footer-name">Devandhira<br>Wijaya Wangsa</span><span>Mathematics · Singapore</span></div><div class="social"><a href="mailto:dwwangsa@u.nus.edu">Email ↗</a><a href="https://github.com/devandhira">GitHub ↗</a><a href="https://www.linkedin.com/in/devandhira">LinkedIn ↗</a></div><p>© 2026</p></footer>
 <script src="/julia.js"></script>
-<script>
-window.addEventListener("load", function () {
-  var el = document.getElementById("quantum-formula");
-  if (el && window.katex) {
-    katex.render(String.raw`\Phi_b(z):=\exp\!\left(-\frac{1}{4}\int_{-\infty}^{\infty}\frac{e^{-2zxi}}{\sinh(xb)\,\sinh(x/b)}\,\frac{dx}{x}\right)`, el, {
-      throwOnError: false,
-      displayMode: true
-    });
-  }
-});
-</script>
 </body>
 </html>
