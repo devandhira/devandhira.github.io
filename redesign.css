@@ -22,19 +22,8 @@
 
 
 
-@media(max-width:800px){.quantum-formula{display:none}}
+@media(max-width:800px){
 
-
-
-.quantum-formula{
-  right:6vw;
-  bottom:3.25rem;
-  max-width:46vw;
-  color:#8f9399;
-  font-size:clamp(.72rem,1.15vw,1.15rem);
-  opacity:.78;
-}
-.quantum-formula .katex-display{margin:0;text-align:right}
-.quantum-formula .katex{color:#8f9399;font-size:1.45em}
-@media(max-width:1000px){.quantum-formula{max-width:52vw;font-size:.72rem}}
+.quantum-formula{right:6vw;bottom:3.25rem;width:min(43vw,690px);max-width:none;opacity:.8}
+.quantum-formula img{display:block;width:100%;height:auto}
 @media(max-width:800px){.quantum-formula{display:none}}
