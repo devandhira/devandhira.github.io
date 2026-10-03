@@ -9,6 +9,8 @@
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@300;400;500;600;700&family=Manrope:wght@500;600;700;800&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="/redesign.css">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/katex.min.css">
+  <script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/katex.min.js"></script>
 </head>
 <body>
 <header class="nav">
@@ -38,7 +40,7 @@
     <p>I am undertaking a PhD in Mathematics at the National University of Singapore under the supervision of <a href="https://blog.nus.edu.sg/dinh/" target="_blank" rel="noopener">Prof. Dinh Tien Cuong ↗</a>.</p>
     <p>My undergraduate research, supervised by <a href="https://www.math.hkust.edu.hk/~ivanip/index.html" target="_blank" rel="noopener">Prof. Ip, Ivan Chi Ho ↗</a> at HKUST, studied analytic properties of the <strong>quantum dilogarithm</strong> and its connections with quantum groups.</p>
   </div>
-  <div class="formula quantum-formula" aria-hidden="true"><svg class="quantum-equation" viewBox="0 0 940 118" fill="#8f9399" color="#8f9399" role="img" aria-label="Quantum dilogarithm integral formula"><text x="8" y="72" font-family="Cambria Math, Cambria, STIX Two Math, Times New Roman, serif" font-size="40">Φ</text><text x="38" y="82" font-family="Cambria Math, Cambria, STIX Two Math, Times New Roman, serif" font-size="22">b</text><text x="54" y="72" font-family="Cambria Math, Cambria, STIX Two Math, Times New Roman, serif" font-size="40">(z) := exp</text><text x="244" y="79" font-family="Cambria Math, Cambria, STIX Two Math, Times New Roman, serif" font-size="78">(</text><text x="286" y="72" font-family="Cambria Math, Cambria, STIX Two Math, Times New Roman, serif" font-size="40">−</text><text x="332" y="50" font-family="Cambria Math, Cambria, STIX Two Math, Times New Roman, serif" font-size="28">1</text><line stroke="#8f9399" x1="323" y1="59" x2="354" y2="59" stroke="currentColor" stroke-width="1.5"/><text x="332" y="86" font-family="Cambria Math, Cambria, STIX Two Math, Times New Roman, serif" font-size="28">4</text><text x="371" y="76" font-family="Cambria Math, Cambria, STIX Two Math, Times New Roman, serif" font-size="64">∫</text><text x="392" y="32" font-family="Cambria Math, Cambria, STIX Two Math, Times New Roman, serif" font-size="20">∞</text><text x="385" y="100" font-family="Cambria Math, Cambria, STIX Two Math, Times New Roman, serif" font-size="20">−∞</text><text x="478" y="42" font-family="Cambria Math, Cambria, STIX Two Math, Times New Roman, serif" font-size="30">e</text><text x="496" y="29" font-family="Cambria Math, Cambria, STIX Two Math, Times New Roman, serif" font-size="18">−2zxi</text><line stroke="#8f9399" x1="431" y1="58" x2="725" y2="58" stroke="currentColor" stroke-width="1.5"/><text x="438" y="89" font-family="Cambria Math, Cambria, STIX Two Math, Times New Roman, serif" font-size="27">sinh(xb) sinh(x/b)</text><text x="752" y="48" font-family="Cambria Math, Cambria, STIX Two Math, Times New Roman, serif" font-size="27">dx</text><line stroke="#8f9399" x1="746" y1="58" x2="790" y2="58" stroke="currentColor" stroke-width="1.5"/><text x="760" y="87" font-family="Cambria Math, Cambria, STIX Two Math, Times New Roman, serif" font-size="27">x</text><text x="805" y="79" font-family="Cambria Math, Cambria, STIX Two Math, Times New Roman, serif" font-size="78">)</text></svg></div>
+  <div class="formula quantum-formula" id="quantum-formula" aria-label="Quantum dilogarithm formula"></div>
 </section>
 
 <section class="section writing" id="writing">
@@ -97,5 +99,16 @@
 
 <footer><div><span class="footer-name">Devandhira<br>Wijaya Wangsa</span><span>Mathematics · Singapore</span></div><div class="social"><a href="mailto:dwwangsa@u.nus.edu">Email ↗</a><a href="https://github.com/devandhira">GitHub ↗</a><a href="https://www.linkedin.com/in/devandhira">LinkedIn ↗</a></div><p>© 2026</p></footer>
 <script src="/julia.js"></script>
+<script>
+window.addEventListener("load", function () {
+  var el = document.getElementById("quantum-formula");
+  if (el && window.katex) {
+    katex.render(String.raw`\Phi_b(z):=\exp\!\left(-\frac{1}{4}\int_{-\infty}^{\infty}\frac{e^{-2zxi}}{\sinh(xb)\,\sinh(x/b)}\,\frac{dx}{x}\right)`, el, {
+      throwOnError: false,
+      displayMode: true
+    });
+  }
+});
+</script>
 </body>
 </html>
