@@ -17,3 +17,5 @@
 .writing-card:first-child .card-art{height:220px}
 .writing-card:has(.card-art){padding-top:2rem}
 @media(max-width:800px){.card-art,.writing-card:first-child .card-art{height:180px}}
+
+.quantum-formula{font-family:serif;font-size:clamp(1.1rem,2.1vw,2.15rem);color:#343434;max-width:58vw}.quantum-formula mjx-container{margin:0!important}
