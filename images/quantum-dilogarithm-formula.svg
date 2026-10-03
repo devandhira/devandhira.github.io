@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="150" viewBox="0 0 1100 150">
+<style>math{font-family:"Cambria Math","STIX Two Math","Times New Roman",serif;color:#8f9399;font-size:39px}mo,mi,mn{color:#8f9399}</style>
+<foreignObject x="0" y="0" width="1100" height="150">
+<div xmlns="http://www.w3.org/1999/xhtml" style="width:1100px;height:150px;display:flex;align-items:center">
+<math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
+<mrow><msub><mi>Φ</mi><mi>b</mi></msub><mo>(</mo><mi>z</mi><mo>)</mo><mo>:=</mo><mi mathvariant="normal">exp</mi><mo>(</mo><mo>−</mo>
+<mfrac><mn>1</mn><mn>4</mn></mfrac>
+<munderover><mo>∫</mo><mrow><mo>−</mo><mi>∞</mi></mrow><mi>∞</mi></munderover>
+<mfrac><msup><mi>e</mi><mrow><mo>−</mo><mn>2</mn><mi>z</mi><mi>x</mi><mi>i</mi></mrow></msup>
+<mrow><mi mathvariant="normal">sinh</mi><mo>(</mo><mi>x</mi><mi>b</mi><mo>)</mo><mi mathvariant="normal">sinh</mi><mo>(</mo><mi>x</mi><mo>/</mo><mi>b</mi><mo>)</mo></mrow></mfrac>
+<mfrac><mrow><mi>d</mi><mi>x</mi></mrow><mi>x</mi></mfrac><mo>)</mo></mrow>
+</math></div></foreignObject></svg>
