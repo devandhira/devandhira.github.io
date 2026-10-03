@@ -13,3 +13,7 @@
 .timeline h3{font:700 clamp(1.35rem,2vw,2rem)/1.15 "Manrope",sans-serif;margin:0 0 .65rem;letter-spacing:-.025em}.timeline p{margin:.35rem 0;color:#aaa}.timeline .detail{font-size:.78rem;color:var(--dim)}
 @media(max-width:800px){.writing-list{grid-template-columns:1fr}.writing-card:first-child{grid-column:auto}.timeline article{grid-template-columns:1fr;gap:.8rem}}
 .edu-details{margin:1rem 0 1.2rem;padding-left:1.15rem;color:var(--dim);font-size:.78rem;line-height:1.9}.edu-details li::marker{color:#555}
+.card-art{width:calc(100% + 4rem);height:190px;object-fit:cover;margin:-2rem -2rem 1.6rem;border-bottom:1px solid var(--line);display:block}
+.writing-card:first-child .card-art{height:220px}
+.writing-card:has(.card-art){padding-top:2rem}
+@media(max-width:800px){.card-art,.writing-card:first-child .card-art{height:180px}}
