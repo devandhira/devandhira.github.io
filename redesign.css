@@ -276,3 +276,23 @@ body:has(.subpage) .footer-name{font-size:clamp(2rem,3.5vw,3.5rem)}
   .subpage .detail-list article{grid-template-columns:1fr;gap:.65rem}
   .subpage .research-equation-page{width:min(100%,340px)}
 }
+
+/* Subpage hero final scale/position */
+.subpage .page-hero{
+  padding-top:11rem !important;
+  padding-bottom:4.5rem !important;
+}
+.subpage .page-hero h1{
+  font-size:clamp(2.5rem,4.2vw,4.25rem) !important;
+  line-height:1 !important;
+  letter-spacing:-.04em !important;
+}
+@media(max-width:800px){
+  .subpage .page-hero{
+    padding-top:8rem !important;
+    padding-bottom:3.25rem !important;
+  }
+  .subpage .page-hero h1{
+    font-size:clamp(2.35rem,11vw,3.5rem) !important;
+  }
+}
