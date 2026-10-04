@@ -116,3 +116,31 @@
 }
 
 .section-link{display:inline-block;margin-top:1.5rem;font-size:.72rem;text-transform:uppercase;letter-spacing:.09em;border-bottom:1px solid #555;padding-bottom:.25rem}.preview-link{position:absolute;right:4vw;bottom:2.5rem}.compact article{padding:1.5rem 0}.subnav{position:relative}.subpage{min-height:70vh}.page-hero{padding:8rem 8vw 5rem;border-bottom:1px solid var(--line)}.page-hero h1{font:800 clamp(3.5rem,7vw,7rem)/.9 "Manrope",sans-serif;margin:.25em 0 0;letter-spacing:-.045em}.content-block{max-width:980px;margin:0 auto;padding:6rem 5vw}.page-lead{font:600 clamp(1.7rem,3vw,3rem)/1.25 "Manrope",sans-serif;max-width:850px;margin:0 0 5rem}.content-block>h2{font:700 clamp(1.5rem,2.3vw,2.3rem) "Manrope",sans-serif;margin:4rem 0 1rem}.content-block>p{color:#aaa;line-height:1.8;max-width:760px}.content-block a{border-bottom:1px solid #555}.research-equation-page{width:min(480px,70%);opacity:.72;margin:2.5rem 0}.writing-page-grid{display:grid;grid-template-columns:1fr;gap:1px;background:var(--line)}.writing-page-grid article{background:var(--bg);padding:2rem}.writing-page-grid img{width:100%;max-height:260px;object-fit:cover;margin-bottom:2rem}.writing-page-grid h2{font:700 clamp(1.5rem,2.5vw,2.5rem)/1.1 "Manrope",sans-serif}.writing-page-grid p{color:var(--dim);line-height:1.7}.detail-list article{display:grid;grid-template-columns:180px 1fr;gap:2rem;padding:2rem 0;border-top:1px solid var(--line)}.detail-list article>span{font-size:.7rem;color:var(--dim);text-transform:uppercase;letter-spacing:.08em}.detail-list h3{margin:0;font:700 1.25rem "Manrope",sans-serif}.detail-list p{color:#999;line-height:1.7}@media(max-width:800px){.preview-link{position:static;margin-left:12vw}.page-hero{padding:6rem 6vw 3rem}.content-block{padding:4rem 6vw}.detail-list article{grid-template-columns:1fr;gap:.6rem}}
+
+/* Subpage layout refinement */
+.subpage .page-hero{
+  padding:10rem 8vw 6rem !important;
+  border-bottom:0 !important;
+  position:relative;
+  overflow:visible;
+}
+.subpage .page-hero::before,
+.subpage .page-hero::after{content:none !important;display:none !important}
+.subpage .page-hero .eyebrow{
+  display:block;
+  margin:0 0 1.5rem !important;
+  line-height:1.2;
+}
+.subpage .page-hero h1{
+  display:block;
+  position:relative;
+  margin:0 !important;
+  padding:0 !important;
+  line-height:.95 !important;
+  text-decoration:none !important;
+  border:0 !important;
+}
+.subpage .content-block{border-top:1px solid var(--line)}
+@media(max-width:800px){
+  .subpage .page-hero{padding:7rem 6vw 4rem !important}
+}
